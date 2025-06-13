@@ -5,4 +5,5 @@ data class ProductModel(
     var productName :String = "",
     var productDesc :String = "",
     var productPrice : Double = 0.0,
+
 )
