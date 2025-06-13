@@ -24,7 +24,6 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.c36b.model.ProductModel
 import com.example.c36b.repository.ProductRepositoryImpl
-import com.example.c36b.view.ui.theme.C36BTheme
 import com.example.c36b.viewmodel.ProductViewModel
 
 class AddProductActivity : ComponentActivity() {
